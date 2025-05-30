@@ -33,7 +33,7 @@ cache = TTLCache(maxsize=100, ttl=300)
 cached_tokens = defaultdict(dict)
 
 # Constants
-BG_IMAGE_URL = "https://i.ibb.co/N240RkCg/IMG-20250215-010130-294.jpg"
+BG_IMAGE_URL = "https://i.ibb.co/3Y8tnjzR/images-5.jpg"
 OVERLAY_LAYER_URL = "https://i.ibb.co/39993PDP/IMG-20250128-032242-357-removebg.png"
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/AdityaSharma2403/OUTFIT-S/main/{folder}/{id}.png"
 
